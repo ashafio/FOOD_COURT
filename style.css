@@ -1,0 +1,140 @@
+body{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    color:rgb(80,80,80);
+}
+h2{
+    font-size: 35px;
+    color:dimgrey;
+}
+.Spanclr{
+          color:rgb(170, 10, 149);
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link_button{
+        text-decoration: none;
+        background-image: linear-gradient(blueviolet,violet); 
+        padding: 18px 40px;
+        border-radius: 30px;
+        color: white;
+        font-weight: 700;
+    }
+.UpFirst{
+    display: flex;
+    margin-top: 100px;
+}
+.pstl{
+    color: gray;
+    margin-bottom: 60px;
+}
+
+.AboutMe{
+    background-image: url(images/shapes/Frame56.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 100px;
+}
+.recip_h{
+    text-align: center;
+    margin-top: 90px;
+}
+.recipie_p{
+    text-align:center;
+    color:black;
+    margin-bottom: 50px;
+}
+
+.food_display h2{
+    color: black;
+    font-weight:500;
+}
+
+.food_display p{
+    color: rgb(80,80,80);
+    font-family: 'Poppins', sans-serif;
+}
+
+.flexContainer{
+    display: flex;
+    margin-bottom: 50px;
+}
+.box1{
+    box-shadow: 10px 10px 40px rgb(194, 192, 192);
+    width: 40%;
+    margin-right: 4%;
+    margin-left: 7%;
+    border-radius: 15px;
+    height: 570px;
+}
+
+.box2{
+    box-shadow: 10px 10px 40px rgb(194, 192, 192);
+    width: 40%;
+    margin-right: 8%;
+    margin-left: 2%;
+    border-radius: 15px;
+    height: 570px;
+}
+
+.box3{
+    box-shadow: 10px 10px 40px rgb(194, 192, 192);
+    width: 66%;
+    margin-right: 3%;
+    border-radius: 15px;
+    height: 570px;
+}
+
+#Food{
+    border: 15px solid white;
+}
+.food_img{
+    width: 300px;
+    height: 200px;
+}
+
+
+.social_media{
+    box-shadow: 10px 10px 40px rgb(194, 192, 192);
+    width: 80%;
+    margin-right: 5%;
+    margin-left: 9%;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    height: 220px;
+    display: flex;
+
+}
+.social_media h1{
+    margin-left: -140px;
+    color: black;
+
+}
+
+.social_media p{
+    color: rgb(80,80,80);
+    margin-top: 120px;
+    margin-left: 160px;
+} 
+
+.downnow{
+    width: 100%;
+    background-color: black;
+    height: 235px;
+    text-align: center;
+}
+.foot_col{
+    color:darkorange;
+}
+.downnow p{
+    color:gainsboro
+}
